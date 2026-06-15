@@ -1,0 +1,23 @@
+{
+  "upload_type": "software",
+  "access_right": "open",
+  "title": "pepkio-absorbance-curve-calculator v0.1.0 – a Python client for standard-curve concentration estimation via the Pepkio life-science calculator suite",
+  "description": "Archiving **pepkio-absorbance-curve-calculator** on Zenodo provides a version-pinned programmatic bioinformatics tool for Beer–Lambert standard curves, blank subtraction, and dilution-corrected sample concentrations from plate-reader absorbance data in biochemistry and cell-based assays. The client delegates curve fitting and QC to the hosted Pepkio calculator API while freezing the exact library release cited in each publication. Source code and the issue tracker are maintained at https://github.com/pepkio/pepkio-absorbance-curve-calculator. The primary interactive platform for the same calculations is the [Pepkio Standard Curve & Concentration Calculator](https://www.pepkio.com/tools/absorbance-curve-calculator), part of a Pepkio suite of more than thirty web tools covering solution prep, PCR, cell culture, assays, pharmacology, education, and sequence utilities. The Python client supports batch plate processing and integration with Jupyter, Nextflow, and Snakemake without embedding calculator logic locally. Released under the MIT License; Pepkio (https://www.pepkio.com/) develops laboratory calculators and analysis services for life science research.",
+  "notes": "**Suggested citation.** When referencing the archived client in a publication, cite the Zenodo DOI together with the GitHub repository (https://github.com/pepkio/pepkio-absorbance-curve-calculator) and record the client version (v0.1.0) in methods or supplementary materials.\n\n**Programmatic access.** This client is the recommended interface for scripted calls to the Pepkio Standard Curve & Concentration Calculator API; the interactive web application remains available for manual plate analysis. Calculator logic resides on Pepkio servers; this package transmits parameters and returns structured results only.",
+  "version": "0.1.0",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Pepkio",
+      "affiliation": "Pepkio"
+    }
+  ],
+  "keywords": [
+    "Python client for lab calculators",
+    "standard curve",
+    "Beer-Lambert",
+    "absorbance",
+    "reproducible research"
+  ]
+}
