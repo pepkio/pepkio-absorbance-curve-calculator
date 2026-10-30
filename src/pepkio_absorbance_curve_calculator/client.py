@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """HTTP client for the Pepkio absorbance-curve-calculator tool."""
 
 from __future__ import annotations

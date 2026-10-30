@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Python client for Pepkio absorbance-curve-calculator."""
 
 from .client import PepkioClient

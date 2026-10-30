@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Command-line interface for pepkio-absorbance-curve-calculator."""
 
 from __future__ import annotations
