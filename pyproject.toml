@@ -1,6 +1,6 @@
 [project]
 name = "pepkio-absorbance-curve-calculator"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python client for Pepkio Standard Curve & Concentration Calculator via the Tools REST API"
 readme = "README_PYPI.md"
 requires-python = ">=3.11"
