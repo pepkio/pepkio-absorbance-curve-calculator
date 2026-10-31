@@ -87,3 +87,5 @@ Pepkio develops software tools and provides bioinformatics analysis services for
 # Keywords
 
 standard curve, absorbance calculator, ELISA 4PL, BCA assay, Bradford assay, concentration back-calculation, plate reader analysis, 96-well absorbance, dilution factor, blank subtraction, optical density interpolation, model comparison R squared, replicate CV QC, pepkio-absorbance-curve-calculator, Python ELISA API, immunoassay quantification, protein assay calculator, REST API standard curve, how to fit BCA standard curve from Python, back-calculate ELISA concentration with dilution factor, compare linear and 4PL fit programmatically, automate plate reader absorbance analysis, flag out of range ELISA samples API, standard curve QC before reporting results, Python client absorbance to concentration
+
+A semantic, AI-native version of this document in the K2F format is available at https://k2f.dev (https://k2f.dev/v/8b52571d6739763b18f7acec774dfe8081318253f3b3447f3c1dc4ec579c2955)
